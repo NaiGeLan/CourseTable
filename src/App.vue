@@ -1,0 +1,176 @@
+<script setup>
+import HelloWorld from './components/HelloWorld.vue'
+[
+    {
+        "title": "概率论与数理统计",
+        "period": "40",
+        "credit": "2.5",
+        "time": "9-17周,19周",
+        "teacher": "陈莉",
+        "location": "博1-B301",
+        "week": 2,
+        "start": 3,
+        "duration": 2,
+        "color": "#6699CC"
+    },
+    {
+        "title": "概率论与数理统计",
+        "period": "40",
+        "credit": "2.5",
+        "time": "9-17周,19周",
+        "teacher": "陈莉",
+        "location": "博1-B301",
+        "week": 4,
+        "start": 3,
+        "duration": 2,
+        "color": "#6699CC"
+    },
+    {
+        "title": "JAVA程序设计",
+        "period": "32",
+        "credit": "3.0",
+        "time": "1-5周(单),6-8周(双),9-10周",
+        "teacher": "王辉1",
+        "location": "博4-C406",
+        "week": 1,
+        "start": 1,
+        "duration": 2,
+        "color": "#FFDC72"
+    },
+    {
+        "title": "JAVA程序设计",
+        "period": "32",
+        "credit": "3.0",
+        "time": "1-8周",
+        "teacher": "王辉1",
+        "location": "博4-C404",
+        "week": 3,
+        "start": 1,
+        "duration": 2,
+        "color": "#FFDC72"
+    },
+    {
+        "title": "JAVA程序设计",
+        "period": "32",
+        "credit": "3.0",
+        "time": "7周",
+        "teacher": "王辉1",
+        "location": "博4-C406",
+        "week": 5,
+        "start": 7,
+        "duration": 2,
+        "color": "#FFDC72"
+    },
+    {
+        "title": "互联网产品设计",
+        "period": "32",
+        "credit": "2.0",
+        "time": "11-18周",
+        "teacher": "张卫华",
+        "location": "博4-C406",
+        "week": 1,
+        "start": 7,
+        "duration": 2,
+        "color": "#FF9966"
+    },
+    {
+        "title": "互联网产品设计",
+        "period": "32",
+        "credit": "2.0",
+        "time": "10-17周",
+        "teacher": "张卫华",
+        "location": "博4-C410",
+        "week": 3,
+        "start": 1,
+        "duration": 2,
+        "color": "#FF9966"
+    },
+    {
+        "title": "线性代数",
+        "period": "36",
+        "credit": "2.0",
+        "time": "1-8周",
+        "teacher": "赵琳",
+        "location": "博1-A101",
+        "week": 2,
+        "start": 5,
+        "duration": 2,
+        "color": "#669966"
+    },
+    {
+        "title": "线性代数",
+        "period": "36",
+        "credit": "2.0",
+        "time": "1-8周",
+        "teacher": "赵琳",
+        "location": "博1-A101",
+        "week": 4,
+        "start": 3,
+        "duration": 2,
+        "color": "#669966"
+    },
+    {
+        "title": "思想政治理论课实践",
+        "period": "6",
+        "credit": "2.0",
+        "time": "4周,16-18周",
+        "teacher": "胡国庆",
+        "location": "博3-A203",
+        "week": 4,
+        "start": 5,
+        "duration": 2,
+        "color": "#81CC74"
+    },
+    {
+        "title": "恐龙星球",
+        "period": "0",
+        "credit": "1.5",
+        "time": "1-6周",
+        "teacher": "孔凡凡",
+        "location": "博5-A401智慧",
+        "week": 2,
+        "start": 9,
+        "duration": 2,
+        "color": "#FF9999"
+    },
+    {
+        "title": "恐龙星球",
+        "period": "0",
+        "credit": "1.5",
+        "time": "1-6周",
+        "teacher": "孔凡凡",
+        "location": "博5-A401智慧",
+        "week": 4,
+        "start": 9,
+        "duration": 2,
+        "color": "#FF9999"
+    },
+    {
+        "title": "网球(3)",
+        "period": "24",
+        "credit": "0.5",
+        "time": "1-12周",
+        "teacher": "邵安伟",
+        "location": "北区网球场",
+        "week": 5,
+        "start": 5,
+        "duration": 2,
+        "color": "#CE7CF4"
+    },
+]
+</script>
+
+<template>
+  <div>
+    <a href="https://vitejs.dev" target="_blank">
+      <img src="/vite.svg" class="logo" alt="Vite logo" />
+    </a>
+    <a href="https://vuejs.org/" target="_blank">
+      <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
+    </a>
+  </div>
+  <HelloWorld msg="Vite + Vue" />
+</template>
+
+<style scoped>
+</style>
