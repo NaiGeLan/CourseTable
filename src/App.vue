@@ -319,13 +319,13 @@ const courseData2 = [
     ],
     [
         {
-            "title": "概率论与数理统计",
+            "title": "统计学",
             "period": "40",
             "credit": "2.5",
             "time": "9-17周,19周",
             "teacher": "陈莉",
             "location": "博1-B301",
-            "week": 2,
+            "week": 3,
             "start": 3,
             "duration": 2,
             "color": "#6699CC"
